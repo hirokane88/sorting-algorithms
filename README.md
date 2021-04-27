@@ -2,7 +2,7 @@
 
 ### Description
 
-This is c program designed to implement four sorting algorithms. The algorithms are bubble sort, shell sort, quicksort, and heap sort. The algorithms are contained in the bubble.c, shell.c, quick.c, and heap.c files respectively. The API for the program is contained in the sorting.c file along with it's subsequent command options.
+This is c program designed to implement four sorting algorithms. The algorithms are bubble sort, shell sort, quicksort, and heap sort. The algorithms are contained in the bubble.c, shell.c, quick.c, and heap.c files respectively. The main() function of the program is contained in the sorting.c file along with it's subsequent command options.
 
 ### Build
 
